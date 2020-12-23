@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[Link](http:/github.com)
+[Github](http:/github.com)
 
 - Bulleted
 - List
