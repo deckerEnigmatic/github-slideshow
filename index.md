@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[Link](https://enigmaticdevices.com)
+[Link](http:/github.com)
 
 - Bulleted
 - List
